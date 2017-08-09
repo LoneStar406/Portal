@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PortalCSVS">
+</Property><Property Name="Solution File" Value="C:\Development\Portal2\PortalCSVS.sln">
+</Property><Property Name="Date" Value="Tuesday, October 04, 2011">
+</Property><Property Name="Time" Value="1:18 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PortalCSVS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PortalCSVS.sln" Description="Converted">
+</Event></UpgradeLog>
