@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ASPNET.StarterKit.Portal.AnnouncementsDB" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\AnnouncementsDB.cs</FileName>
+      <HashCode>AAAAAAAABAAAAAAAAAIAAAAAAIABAAAAAAAAAIAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.Configuration" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>gAAAAAAAAAIAAREAAQACQAAgAgBAAAgAQAgKCAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.PortalSettings" Collapsed="true">
+    <Position X="11.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>AAAAAABAAAAAAAAQAAAAAAAAAgAAIAAAAAAAAAACgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.TabStripDetails" Collapsed="true">
+    <Position X="9.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAACAAAAAAAAAAAAAAAAACAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.TabSettings" Collapsed="true">
+    <Position X="8" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>EAAAAAAAAACAAIAAAAAAAACQAAAAIAAAAAAAAAAACAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.ModuleSettings" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>AADAEAABAAAIAAQAAAAAAAQAAAAAKBAAAAAAAAAAAAE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.ModuleItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>AACAAAABAIAAAAQAAABEAAQAAAAQKAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.TabItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Configuration.cs</FileName>
+      <HashCode>AAAAIAAAAAAAAAQAAABAAACAAAAAAAAAAAAAAAgACAE=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.ContactsDB" Collapsed="true">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\ContactsDB.cs</FileName>
+      <HashCode>AAAAAAACFCAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.PortalModuleControl" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\DesktopControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAggAAAIAQAAgAAIAAAgAAQAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.CachedPortalModuleControl" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\DesktopControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAQAAgAAIAAAAFAQAAQAACA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.DiscussionDB" Collapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\DiscussionDB.cs</FileName>
+      <HashCode>AAEAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.DocumentDB" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\DocumentDB.cs</FileName>
+      <HashCode>AAAACAAAAAAgAAAAAAAAAAAAAAAAAAABAggAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.EventsDB" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\EventsDB.cs</FileName>
+      <HashCode>AAAAAAAAAAAIAABAAAAAAAACAAABAAAAAAAAAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.HtmlTextDB" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\HtmlTextDB.cs</FileName>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.LinkDB" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\LinksDB.cs</FileName>
+      <HashCode>AAAgAAAAAAAAAABAAAAAAAAQAACAIAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobilePortalModuleControl" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AACAAAAAAACgAAAAAAQAAAQCAgAAAAQAAAABAAQAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobilePortalTab" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.RolesDB" Collapsed="true">
+    <Position X="13.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\RolesDB.cs</FileName>
+      <HashCode>YAAQAAAAAAAAAQAAggAAAAAAAAAAAAAAAAiAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.PortalSecurity" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Security.cs</FileName>
+      <HashCode>AQAAAABACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.UsersDB" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\Security.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAQAAAAAgAAAQAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.Global" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Global.asax.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.SiteConfiguration" Collapsed="true">
+    <Position X="15" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\PortalCfg.cs</FileName>
+      <HashCode>AAAAAAAQAwCgAAIEAAAgAABAAAAIQBAUgIAgCAVDBFE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.LinkCommand" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.HtmlLinkCommandAdapter" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.ChildPanel" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAABAAAAAQAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.MultiPanel" Collapsed="true">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAgAAAAgBAAAAAAgAAAIAAAAAAAQAAAAAAAAIAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.PanelPaneCollection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AEIAAAAAAACAABAQCAAAFAQQABAAAAAABAAAAABAIAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.TabbedPanel" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>EAAAAgAAAAQAAgAABAACAAAAAAAAAACAICAAIACAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.ContentsPanel" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>BAAAAAAAgAABAAAAAAAAAAAAAAAAAQAAAhAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.HtmlTabbedPanelAdapter" Collapsed="true">
+    <Position X="15" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.WmlTabbedPanelAdapter" Collapsed="true">
+    <Position X="13.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAACAAAAAAQABBAAACAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASPNET.StarterKit.Portal.MobileControls.ChtmlTabbedPanelAdapter" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ASPNET.StarterKit.Portal.MobileControls.IPanelPane" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ASPNET.StarterKit.Portal.MobileControls.IContentsPane" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>App_Code\Components\MobileControls.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>
